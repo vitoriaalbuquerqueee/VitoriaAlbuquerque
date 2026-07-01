@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <!-- Imagem -->
   <img src="https://raw.githubusercontent.com/vitoriaalbuquerqueee/VitoriaAlbuquerque/main/image_25.png" width="600" alt="Vitória programando" />
   
@@ -74,3 +74,4 @@ Hoje, realizo uma transição de carreira para a tecnologia, integrando minha ba
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
   <h3 style="color: #8A2BE2;"> 💜 Obrigada pela visita! Vamos conectar? 👾 🔮 </h3>
 </div>
+](https://github.com/vitoriaalbuquerqueee/VitoriaAlbuquerque/blob/main/image_25.png.)
