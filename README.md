@@ -1,30 +1,49 @@
 <div align="center">
-  <!-- Efeito de texto digitando no topo -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&width=435&lines=Olá!+Me+chamo+Vitória!;Desenvolvedora+Full+Stack" />
+  <!-- Imagem -->
+  <img src="https://raw.githubusercontent.com/vitoriaalbuquerqueee/VitoriaAlbuquerque/main/image_25.png" width="600" alt="Vitória programando" />
+  
+  <br><br>
+  
+  <!-- Efeito de digitação -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&width=435&lines=Olá!+Me+chamo+Vitória+Albuquerque!;Desenvolvedora+Full+Stack+em+formação" />
 </div>
 
 ---
 
 # 🚀 Sobre mim
-Minha jornada é movida por visão e coragem. Comecei como recepcionista em arenas de esportes de alto padrão e, ao enxergar uma oportunidade, **fundei minha própria empresa de terceirização**, conquistando a gestão de unidades importantes e atendendo grandes clientes.
+Olá! Meu nome é **Vitória Albuquerque**. Minha trajetória profissional é marcada por visão, adaptabilidade e uma busca constante por desafios. 
 
-Atualmente, estou me dedicando à tecnologia através da **Generation**, onde me formo como Desenvolvedora Full Stack. Meu maior sonho é unir essas duas paixões: a capacidade de criar soluções tecnológicas complexas e a oportunidade de viver e trabalhar no exterior. 🌎💻
+Comecei minha carreira atuando como recepcionista em arenas de esportes de alto padrão, onde, ao identificar lacunas operacionais, fundei minha própria empresa de terceirização. Essa experiência empreendedora me permitiu gerir equipes, conquistar grandes clientes e desenvolver uma visão estratégica sólida para resolução de problemas e foco em resultados.
 
-## 🛠 Minhas Skills & Idiomas
-<div style="display: inline_block">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-5A2D82?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring_Boot-4B0082?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+Hoje, realizo uma transição de carreira para a tecnologia, integrando minha bagagem de gestão com o desenvolvimento de software. Estou em formação como **Desenvolvedora Full Stack** pela Generation, onde venho aprimorando minhas competências técnicas em um ambiente ágil. Meu grande objetivo é unir a tecnologia à minha experiência de liderança, criando soluções inovadoras e com o sonho de expandir minha carreira internacionalmente.
+
+## 🛠 Minhas Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-5A2D82?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-4B0082?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br>
+## 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitoriaalbuquerqueee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="60%" />
+</div>
 
-* **Idiomas:** Cursando Inglês (foco em conversação e leitura técnica).
+## 📂 Projeto em destaque
+* [Projeto Final - Bloco 01](https://github.com/vitoriaalbuquerqueee/projeto_final_bloco_01)
 
+---
+
+<div align="center">
+  <h3>💜 Vamos nos conectar?</h3>
+  <p>Adoraria receber seu feedback ou trocar uma ideia sobre tecnologia!</p>
+  
+  <p>📧 <b>Email:</b> albuquerquevi790@gmail.com</p>
+  <p>📸 <b>Instagram:</b> @vitoriaalbuqueerque</p>
+  <p>💼 <b>LinkedIn:</b> [Insira seu link aqui]</p>
+</div>
 ## 💼 Projetos & Experiência
 * **Empreendedorismo:** Gestão estratégica de unidades em arenas de esportes de alto padrão.
 * **ServiceFlow:** Sistema para gestão de freelancers e temporários.
