@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Efeito de texto digitando no topo -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&width=435&lines=Olá!+Me+chamo+Vitória!;Desenvolvedora+Full+Stack+em+formação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&width=435&lines=Olá!+Me+chamo+Vitória!;Desenvolvedora+Full+Stack" />
 </div>
 
 ---
@@ -27,8 +27,9 @@ Atualmente, estou me dedicando à tecnologia através da **Generation**, onde me
 
 ## 💼 Projetos & Experiência
 * **Empreendedorismo:** Gestão estratégica de unidades em arenas de esportes de alto padrão.
-* **ServiceFlow:** Sistema para gestão de freelancers e temporários. 
-* *[Adicione aqui links para outros projetos do seu GitHub]*
+* **ServiceFlow:** Sistema para gestão de freelancers e temporários.
+* **Focada*** Atualmente no Bootcamp da Generetion
+
 
 ---
 
