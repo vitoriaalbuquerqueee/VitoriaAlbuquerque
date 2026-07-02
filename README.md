@@ -49,23 +49,17 @@ Hoje, realizo uma transição de carreira para a tecnologia, integrando minha ba
 </div>
 
 
-## 💼 Projetos & Experiência
+ 💼 Projetos & Experiência
 * Empreendedorismo; Gestão estratégica de unidades em arenas de esportes de alto padrão.
 * ServiceFlow: Sistema para gestão de freelancers e temporários.
 * Focada Atualmente no Bootcamp da Generetion
 
 
-### 📊 Meus Cards de Estatísticas
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoriaalbuquerqee&theme=transparent" />
-</div>
-
-### 💻 Linguagens
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaalbuquerqee&layout=compact&theme=radical" />
-</p>
+#![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoriaalbuquerqee&theme=transparent)
 
 
+
+>
 <!-- Despedida com emojis roxos -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
   <h3 style="color: #8A2BE2;"> 💜 Obrigada pela visita! Vamos conectar? 👾 🔮 </h3>
