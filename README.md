@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
   <!-- Imagem -->
   <img src="https://raw.githubusercontent.com/vitoriaalbuquerqueee/VitoriaAlbuquerque/main/image_25.png" width="600" alt="Vitória programando" />
   
@@ -8,14 +8,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&width=435&lines=Olá!+Me+chamo+Vitória+Albuquerque!;Desenvolvedora+Full+Stack+em+formação" />
 </div>
 
----
+--->
 
-# 🚀 Sobre mim
-Olá! Meu nome é **Vitória Albuquerque**. Minha trajetória profissional é marcada por visão, adaptabilidade e uma busca constante por desafios. 
+
+
+
+
+
+# 🚀 Um pouco sobre mim
+ Minha trajetória profissional é marcada por visão, adaptabilidade e uma busca constante por desafios. 
 
 Comecei minha carreira atuando como recepcionista em arenas de esportes de alto padrão, onde, ao identificar lacunas operacionais, fundei minha própria empresa de terceirização. Essa experiência empreendedora me permitiu gerir equipes, conquistar grandes clientes e desenvolver uma visão estratégica sólida para resolução de problemas e foco em resultados.
 
-Hoje, realizo uma transição de carreira para a tecnologia, integrando minha bagagem de gestão com o desenvolvimento de software. Estou em formação como **Desenvolvedora Full Stack** pela Generation, onde venho aprimorando minhas competências técnicas em um ambiente ágil. Meu grande objetivo é unir a tecnologia à minha experiência de liderança, criando soluções inovadoras e com o sonho de expandir minha carreira internacionalmente.
+Hoje, realizo uma transição de carreira para a tecnologia, integrando minha bagagem de gestão com o desenvolvimento de software. Estou em formação como **Desenvolvedora Full Stack** pela Generation, onde venho aprimorando minhas competências técnicas em um ambiente ágil. Meu grande objetivo é unir a tecnologia à minha experiência de liderança, criando soluções inovadoras e com o sonho que compartilho a muito tempo com minha esposa, que seria expandir minha carreira internacionalmente.
 
 ## 🛠 Minhas Skills
 <div align="center">
@@ -26,10 +31,8 @@ Hoje, realizo uma transição de carreira para a tecnologia, integrando minha ba
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriaalbuquerqueee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="60%" />
-</div>
+----
+
 
 ## 📂 Projeto em destaque
 * [Projeto Final - Bloco 01](https://github.com/vitoriaalbuquerqueee/projeto_final_bloco_01)
@@ -44,33 +47,27 @@ Hoje, realizo uma transição de carreira para a tecnologia, integrando minha ba
   <p>📸 <b>Instagram:</b> @vitoriaalbuqueerque</p>
   <p>💼 <b>LinkedIn:</b> [Insira seu link aqui]</p>
 </div>
+
+
 ## 💼 Projetos & Experiência
-* **Empreendedorismo:** Gestão estratégica de unidades em arenas de esportes de alto padrão.
-* **ServiceFlow:** Sistema para gestão de freelancers e temporários.
-* **Focada*** Atualmente no Bootcamp da Generetion
+* Empreendedorismo; Gestão estratégica de unidades em arenas de esportes de alto padrão.
+* ServiceFlow: Sistema para gestão de freelancers e temporários.
+* Focada Atualmente no Bootcamp da Generetion
 
 
 ---
+### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitoriaAlbuquerque&show_icons=true&theme=radical" />
+</p>
 
-## 📈 Minhas Estatísticas
-<div align="center">
-  <!-- Contador de visualizações -->
-  <img src="https://komarev.com/ghpvc/?username=vitoriaalbuquerqueee&color=8A2BE2&style=flat-square&label=Profile+views" />
-  <br><br>
-  
-  <!-- Cards de Estatísticas Gerais e de Streak (Fogo) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriaalbuquerqueee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriaalbuquerqueee&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%" />
-</div>
+### 💻 Linguagens
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlbuquerque&layout=compact&theme=radical" />
+</p>
 
-<br><br>
 
-<<div align="center">
-  <img src="https://raw.githubusercontent.com/vitoriaalbuquerqueee/vitoriaalbuquerqueee/main/image_25.png" width="400" alt="Vitória programando no setup roxo" />
-</div>
-  <br><br>
-  
-  <!-- Despedida com emojis roxos -->
+<!-- Despedida com emojis roxos -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
   <h3 style="color: #8A2BE2;"> 💜 Obrigada pela visita! Vamos conectar? 👾 🔮 </h3>
 </div>
