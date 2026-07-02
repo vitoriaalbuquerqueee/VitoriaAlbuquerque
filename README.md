@@ -55,7 +55,7 @@ Hoje, realizo uma transição de carreira para a tecnologia, integrando minha ba
 * Focada Atualmente no Bootcamp da Generetion
 
 
-#![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoriaalbuquerqee&theme=transparent)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoriaalbuquerqee&theme=transparent)
 
 
 
