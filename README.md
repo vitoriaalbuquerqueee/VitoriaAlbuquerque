@@ -55,10 +55,10 @@ Hoje, realizo uma transição de carreira para a tecnologia, integrando minha ba
 * Focada Atualmente no Bootcamp da Generetion
 
 
-### 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriaalbuquerqee&show_icons=true&theme=radical" />
-</p>
+### 📊 Meus Cards de Estatísticas
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoriaalbuquerqee&theme=transparent" />
+</div>
 
 ### 💻 Linguagens
 <p align="center">
